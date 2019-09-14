@@ -113,4 +113,4 @@ Aqui há alguns elementos do markdown não utilizado no tutorial acima
 ##### Tamanho h5
 ###### Tamanho h6
 
-[Fonte](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
+[Fonte: Raul Esteves](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
