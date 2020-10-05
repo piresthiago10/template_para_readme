@@ -23,7 +23,7 @@ Com o **Markdown** é possível facilmente exibir cabeçalhos ou ter palavras em
 
 Aqui vem um parágrafo com resumo do que é o seu projeto
 
-Aqui vem um parágrafo com resumo de para que server o seu projeto
+Aqui vem um parágrafo com resumo de para que serve o seu projeto
 
 # Autores:
 
